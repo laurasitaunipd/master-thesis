@@ -276,10 +276,11 @@ include_graphics("immagini/grafico5.png")
 # Contact & Thesis
 
 \begin{center}
-\large
 The \href{https://thesis.unipd.it/handle/20.500.12608/79294}{\textbf{whole thesis}} is available on my Google Scholar profile through the University of Padova website.
 
-This presentation is fully reproducible and is hosted in \href{https://thesis.unipd.it/handle/20.500.12608/79294}{\textbf{this repository}} on my GitHub page.
+\vspace{0.25cm}
+
+This presentation is fully reproducible and is hosted in \href{https://github.com/laurasitaunipd/master-thesis.git}{\textbf{this repository}} on my GitHub page.
 
 \vspace{0.5cm}
 
